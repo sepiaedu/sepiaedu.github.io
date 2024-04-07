@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: "STEMCraft Academy by SEPIA"
 layout: home
 ---
+
+# Unlocking STEM Potential through Minecraft Education
+Explore the world of science, technology, engineering, and mathematics (STEM) with our innovative courses powered by Minecraft Education Edition. Dive into a learning adventure where creativity and problem-solving come to life!
+
+[Get Started](#programs-and-offerings)
